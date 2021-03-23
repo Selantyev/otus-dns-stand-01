@@ -18,6 +18,6 @@ www - смотрит на client и client2
 
 Настроен split-dns
 
-client - видит обе зоны (??? но в зоне dns.lab только web1 ???)
+client - видит обе зоны, но в зоне dns2.lab только web1
 
-client2 - видит только dns.lab
+client2 - видит только dns1.lab
